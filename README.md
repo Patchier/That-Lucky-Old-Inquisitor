@@ -12,7 +12,7 @@ This ReadMe is designed to help you with the last few finishing steps necessary 
 
 ## First off, you will need:
 
--   A clean, fresh, and LEGAL Steam installation of Dragon Age: Inquisition. This list works with both Steam and Origin copies, and you will need ALL DLCs.
+-   A clean, fresh, and LEGAL copy of Dragon Age: Inquisition. This list works with both Steam and Origin copies, and you will need ALL DLCs.
 
 ## Install Dragon Age: Inquisition
 
