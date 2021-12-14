@@ -41,4 +41,4 @@ Install That Lucky Old Inquisitor via Wabbajack
 
 Once you've finished installing the modlist, navigate to your That Lucky Old Inquisitor installation folder. Within it, you will want to open "FrostyModManager.exe". The mods I've chosen should be on the right hand side. It will ask you to navigate to your Dragon Age: Inquisiton executable, which will be in the installation folder for the game. 
 
-### IMPORTANT: For now, it is likely the mods will not automatically apply once you set your game path. As such, select all mods on the lefthand side (shift+click will work), and click "Apply". Once done, click "Launch". (If you are not prompted upon opening the mod manager, you may be prompted after clicking "Launch")
+### IMPORTANT: For now, it is likely the mods will not automatically apply once you set your game path. As such, select all mods on the lefthand side (shift+click will work), and click "Apply". Once done, click "Launch". (If you are not prompted upon opening the mod manager, you may be prompted after clicking "Launch"). Also, be sure that "ReSpawns: Stormcoast Level" loads after all other ReSpawn mods.
